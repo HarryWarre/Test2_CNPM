@@ -1,2 +1,4 @@
 Main change
 Hotfix change
+Alpha change
+Đã xử lý xung đột
